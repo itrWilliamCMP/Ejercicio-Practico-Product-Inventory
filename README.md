@@ -20,7 +20,7 @@ public
 
 🚀 Instalación y Ejecución
 1. Clonar el repositorio
-bash https://github.com/itrWilliamCMP/Ejercicio-Practico-Product-Inventory.git
+https://github.com/itrWilliamCMP/Ejercicio-Practico-Product-Inventory.git
 
 2. Instalar dependencias Backend
  npm install
